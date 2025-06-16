@@ -20,7 +20,7 @@ A complete home Security Operations Center (SOC) running on a Raspberry Pi, prov
 
 **Setup:**
 ```bash
-git clone https://github.com/yourusername/elastic-pi-soc
+git clone https://github.com/one3qualsone/elastic-home-soc.git
 cd elastic-pi-soc
 nano .env  # Configure passwords and settings
 docker compose up -d es01 kibana setup
