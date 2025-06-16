@@ -5,11 +5,11 @@ A complete home Security Operations Center (SOC) running on a Raspberry Pi, prov
 
 ## What This Does
 
-- **🛡️ Endpoint Protection**: Real-time monitoring of file changes, process execution, and network activity
-- **🔍 Security Analytics**: Centralized logging and analysis of security events
-- **📊 Visualization**: Professional security dashboards and investigation tools
-- **🚀 Fleet Management**: Centralized agent deployment and policy management
-- **💰 Enterprise for Free**: Full Elastic Stack capabilities at zero cost
+- **Endpoint Protection**: Real-time monitoring of file changes, process execution, and network activity
+- **Security Analytics**: Centralised logging and analysis of security events
+- **Visualisation**: Professional security dashboards and investigation tools
+- **Fleet Management**: Centralised agent deployment and policy management
+- **Enterprise for Free**: Full Elastic Stack capabilities at zero cost
 
 ## Quick Start
 
