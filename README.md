@@ -1,4 +1,6 @@
 # elastic-home-soc
+[Setup Guide](https://medium.com/@mj_42592/building-a-raspberry-pi-home-soc-with-the-elastic-stack-c66ed50b8e8d)
+
 # Home SOC in a Box with Elastic Stack
 
 A complete home Security Operations Center (SOC) running on a Raspberry Pi, providing enterprise-grade endpoint detection and response (EDR) capabilities for your home network.
